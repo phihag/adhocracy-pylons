@@ -14,7 +14,7 @@ if not sys.platform.startswith('java'):
     tests_require.extend(['Genshi', 'coverage>=2.85'])
 
 setup(
-    name="Pylons",
+    name="adhocracy-Pylons",
     version=version,
     description='Pylons Web Framework',
     long_description="""
